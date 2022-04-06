@@ -3,11 +3,8 @@
 ## Software Development Student at Trybe
 
 <p align="left">
-  <a href="mailto:felipeshinkae97@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:felipeshinkae97@gmail.com" /></a>
-
-  <a href="www.linkedin.com/in/fshinkae" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fshinkae" /></a>
+  <a href = "mailto:felipeshinkae97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/fshinkae/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div style="display: inline_block>
   <a href="https://github.com/fshinkae">
