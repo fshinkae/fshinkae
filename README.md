@@ -1,4 +1,7 @@
 # Hi! I'm Felipe Shinkae
+
+## Software Development Student at Trybe
+
 <p align="left">
   <a href="mailto:felipeshinkae97@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:felipeshinkae97@gmail.com" /></a>
@@ -11,7 +14,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fshinkae&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fshinkae&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
+ 
   <div style="display: inline_block"><br>
   <img align="center" alt="fshinkae-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="fshinkae-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -20,6 +23,7 @@
 </div>
   
 <div> 
+ 
   ![Snake animation](https://github.com/fshinkae/fshinkae/blob/output/github-contribution-grid-snake.svg)
- </div>
-  
+ 
+</div>
