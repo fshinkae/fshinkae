@@ -10,6 +10,8 @@
   <a href="https://www.linkedin.com/in/fshinkae/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 
+<img align="right" src="https://media3.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif?cid=790b76112192ef24f8cd7e8b62e2bb2850402c15309b3be8&rid=giphy.gif&ct=g"/>
+
 <h2 align='center'>:japanese_goblin: My GitHub Stats :japanese_goblin: </h2>
 <div style="display: inline_block" align="center">
   <a href="https://github.com/fshinkae">
