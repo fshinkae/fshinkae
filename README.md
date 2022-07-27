@@ -41,7 +41,7 @@ class About extends Me {
 
 <p align="center">
   <div>
-  <h4>🕹️  Sometimes I spend my time...</h4>
+  <h4>🕹️ To have fun and spend time......</h4>
   <img align="left" href = "https://steamcommunity.com/id/felipeshinkae/" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   <img align="left" href = "https://www.twitch.tv/lil_shin_" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" />
