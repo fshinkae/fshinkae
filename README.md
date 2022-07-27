@@ -1,9 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Shinkae :japanese_goblin: </h1>
-
 <p align='center'>
   I live in Três Lagoas, Brazil and student at <b>TRYBE</b> 
 </p>
-
 
 <p align="center">
   <a href = "mailto:felipeshinkae97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -42,5 +40,16 @@ class About extends Me {
  </p>
 
 <p align="center">
- <img align="center" src="https://media3.giphy.com/media/26n6xF5M2Ht4eKdO0/giphy.gif?cid=790b76112192ef24f8cd7e8b62e2bb2850402c15309b3be8&rid=giphy.gif&ct=g"/>
+  <div>
+  <h4>:japanese_goblin:  Sometimes I spend my time...</h4>
+  <img align="left" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <br>
+  </div>
+ <img align="right" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47gxx510y64b0cedyxb9jnojabzle7l9umnpiadviy&rid=giphy.gif&ct=g"/>
 </p>
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149907769)
+
