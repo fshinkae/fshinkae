@@ -41,14 +41,14 @@ class About extends Me {
 
 <p align="center">
   <div>
-  <h4>:japanese_goblin:  Sometimes I spend my time...</h4>
+  <h4>🕹️  Sometimes I spend my time...</h4>
   <img align="left" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" />
   <br>
   </div>
- <img align="right" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47gxx510y64b0cedyxb9jnojabzle7l9umnpiadviy&rid=giphy.gif&ct=g"/>
+ <img width=400 height=200 align="right" src="https://media3.giphy.com/media/aNqEFrYVnsS52/giphy.gif?cid=ecf05e47gxx510y64b0cedyxb9jnojabzle7l9umnpiadviy&rid=giphy.gif&ct=g"/>
 </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12149907769)
