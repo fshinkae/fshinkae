@@ -26,7 +26,7 @@ class About extends Me {
     "Database" : { "MySQL", "MongoDB" },
     "Editors" : { "Vscode", "Eclipse" },
     "Platforms" : { "Linux", "Windows" },
-    "OtherTools" : { "Express", "Sequelize", "Nodejs", "Git", "Figma",  }
+    "OtherTools" : { "Express", "Sequelize", "Nodejs", "Git", "Figma"  }
   };
 }
 ```
