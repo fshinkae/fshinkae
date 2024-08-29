@@ -1,7 +1,4 @@
 <h1 align='center'> Hi there 👋, I'm Shinkae :japanese_goblin: </h1>
-<p align='center'>
-  I live in Três Lagoas, Brazil and student at <b>TRYBE</b> 
-</p>
 
 <p align="center">
   <a href = "mailto:felipeshinkae97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
